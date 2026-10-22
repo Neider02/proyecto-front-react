@@ -3,7 +3,7 @@ function App() {
   return (
     <>
       <h1>Mi Proyecto Front React</h1>
-      <p>Neider</p>
+      <p>Neider - Ingeniería de Software</p>
     </>
   )
 }
